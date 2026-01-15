@@ -121,3 +121,7 @@ CREATE TABLE IF NOT EXISTS lakehouse.sales.retail_transactions (
   location = 's3://sales/orders'
 );
 ```
+
+## Repo Topics
+
+lakehouse, data-platform, minio, delta-lake, trino, data-engineering, parquet, object-storage, hive-metastore
