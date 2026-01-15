@@ -1,0 +1,9 @@
+fake_data:
+  folder_path: ./delta_lake_data/pump
+
+datalake:
+  endpoint: localhost:9000
+  bucket_name: iot-time-series
+  folder_name: pump
+  access_key: minio_access_key
+  secret_key: minio_secret_key
